@@ -1,0 +1,59 @@
+@media  screen and (max-width:1450px) {
+    .box1{
+        margin: 73px 467px 0px 147px;
+    }
+    .serch input {
+        margin: 10px 0px 0px 22px;
+        padding: 11px 130px 12px 16px;
+    }
+    .divex{
+        display: block;
+    }
+    .divex .box2 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+    }
+    .divex .box3 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+    }
+    .divex .box4 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+
+    }
+    .divex .box5 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+    }
+    .divex2 {
+        display: block;
+    }
+    .divex2 .box6 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+    }
+    .divex2 .box71 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+    }
+    .divex2 .box72 {
+        margin: 68px 9px 42px 109px;
+       
+        padding: 8px 8px;
+    }
+    .divex2 .box73 {
+        margin: 68px 9px 42px 109px;
+        
+        padding: 8px 8px;
+    }
+    .padd {
+        margin: 0px 467px 0px 124px;
+    }
+}
